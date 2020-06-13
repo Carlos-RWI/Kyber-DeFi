@@ -1,6 +1,6 @@
 pragma solidity >=0.4.16 <0.6.0;
 
-import { IERC20 as ERC20 } from "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import { IERC20 as ERC20 } from "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
 
 
 interface KyberNetworkProxyInterface {
